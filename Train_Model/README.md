@@ -1,6 +1,6 @@
 #Data and Credit
 
-we use wikipedia dump, date 1-4-2021
+we use wikipedia dump, date 1-4-2021.
 you can download the file for wikidump 1-4-2021 : 
 https://dumps.wikimedia.org/idwiki/20210401/idwiki-20210401-pages-articles.xml.bz2
 
