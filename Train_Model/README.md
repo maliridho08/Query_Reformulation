@@ -4,6 +4,7 @@ dataset wikipedia dump tgl 1-4-2021
 
 you can also download file
 	"idwiki-latest-pages-articles.xml.bz2" on wikipedia dump for lastest wiki dump
+	
 or you can download from this page if you want use from date 1-4-2021
 
 source code :	https://gist.github.com/dieka13
