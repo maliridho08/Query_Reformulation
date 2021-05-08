@@ -1,5 +1,5 @@
 model file can be downloaded in Train_Model Folder
-
+https://github.com/maliridho08/Query_Reformulation/tree/main/Train_Model
 
 main_for_baseline will reformulate all word except some word we have listed in stopword.
 
