@@ -11,7 +11,7 @@ you need to DOWNLOAD ALL TRAIN RESULT FILE to run the testing:
 main_for_baseline will reformulate all word except some word we have listed in stopword.
 
 
-main for x_ 
+main for x_ .
 we have modify the query for this type of reformulation.
 some word that unlikely to be reformulated is added x_ in front of it.
 example : siapa nama lengkap soekarno
