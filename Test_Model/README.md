@@ -5,7 +5,7 @@ main_for_baseline will reformulate all word except some word we have listed in s
 
 
 main for x_ 
-we have modify the query for this tyoe of reformulation.
+we have modify the query for this type of reformulation.
 some word that unlikely to be reformulated is added x_ in front of it.
 example : siapa nama lengkap soekarno
 become : siapa nama lengkap x_soekarno
