@@ -20,7 +20,7 @@ output:"id.wiki.new.lower". Use this as input for train_word2vec
 - then run train_word2vec
 
 result:
-	- idwiki_word2vec_200_new_lower.model.syn1neg.npy
-	- idwiki_word2vec_200_new_lower.model.wv.vectors.npy
-	- idwiki_word2vec_200_new_lower.model	-> MODEL!!!
+- idwiki_word2vec_200_new_lower.model.syn1neg.npy
+- idwiki_word2vec_200_new_lower.model.wv.vectors.npy
+- idwiki_word2vec_200_new_lower.model	-> MODEL!!!
 	
