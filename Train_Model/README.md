@@ -13,9 +13,8 @@ source code :	https://gist.github.com/dieka13
 
 idwiki-latest-pages-articles.xml.bz2	-> wikidump tgl 1-4-2021
 
-- run extract_wiki.py
-then
-- run train_word2vec
+- run extract_wiki.py, output:"id.wiki.new.lower". Use this as input for:
+- then run train_word2vec
 
 result:
 - idwiki_word2vec_200_new_lower.model.syn1neg.npy
