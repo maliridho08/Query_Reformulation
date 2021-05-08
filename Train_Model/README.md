@@ -13,7 +13,8 @@ source code :	https://gist.github.com/dieka13
 
 idwiki-latest-pages-articles.xml.bz2	-> wikidump tgl 1-4-2021
 
-- run extract_wiki.py, output:"id.wiki.new.lower". Use this as input for:
+- first, run extract_wiki.py, 
+output:"id.wiki.new.lower". Use this as input for:
 - then run train_word2vec
 
 result:
