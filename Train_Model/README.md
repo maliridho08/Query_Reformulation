@@ -4,9 +4,9 @@ dataset wikipedia dump tgl 1-4-2021
 ypu can download file
 	"idwiki-latest-pages-articles.xml.bz2" on wikipedia dump
 
-source code : https://gist.github.com/dieka13
-	       https://medium.com/@diekanugraha/membuat-model-word2vec-bahasa-indonesia-dari-wikipedia-menggunakan-gensim-e5745b98714d
-	      (dengan beberapa perubahan)
+source code :	https://gist.github.com/dieka13
+		https://medium.com/@diekanugraha/membuat-model-word2vec-bahasa-indonesia-dari-wikipedia-menggunakan-gensim-e5745b98714d
+		(dengan beberapa perubahan)
 
 idwiki-latest-pages-articles.xml.bz2	-> wikidump tgl 1-4-2021
 
