@@ -28,6 +28,8 @@ result:
 - idwiki_word2vec_200_new_lower.model.wv.vectors.npy
 - idwiki_word2vec_200_new_lower.model	-> MODEL!!!
 
+you need to download all result file to run testing
+
 download the result here : https://drive.google.com/drive/folders/123FInpBbdM1uIzj1Kb1MLy1pR7Hr8A3b?usp=sharing
 
 you need to download all result file to run testing
